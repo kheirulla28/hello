@@ -1,3 +1,4 @@
 Новая строка
 Hello, Gulia
 Hello, git!!!
+Hello, git rebase!!!
